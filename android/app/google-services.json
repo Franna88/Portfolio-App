@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550840539825",
+    "firebase_url": "https://franna-webapp-default-rtdb.firebaseio.com",
+    "project_id": "franna-webapp",
+    "storage_bucket": "franna-webapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550840539825:android:094eec30d52dbee6562090",
+        "android_client_info": {
+          "package_name": "com.example.flutter_web_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550840539825-1n90vh0ob23vn8d77fdkao6vkrv6as20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqTqdIz_jIweUXa_lBz1AX5MaCceJM9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550840539825-1n90vh0ob23vn8d77fdkao6vkrv6as20.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550840539825-3aqaci724qb1b3rltjn07o6o11q4of41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterWebPortfolio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
